@@ -5,7 +5,7 @@
 #' 
 #' @importFrom utils read.table
 #' @importFrom rstudioapi getActiveDocumentContext
-#' @importFrom utils head
+#' @importFrom utils file.edit
 #'
 #' @examples
 #'
@@ -23,7 +23,7 @@ clear.code <- function(){
         file_w <- file("new.R")
         writeLines(((contenido)),file_w)
         writeLines(as.character(parse("new.R")),file_w)
-        utils::file.edit("new.R")
+        file.edit("new.R")
     }
     return(invisible())
 }

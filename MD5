@@ -1,11 +1,12 @@
-baf696f103a9f5c20ee7491acabba385 *DESCRIPTION
-94ce5942350673bcacf98d3671e5d1e1 *NAMESPACE
-49820d7a3a3853c74121eb41a7ea9a7d *R/clear.code.R
-c31acbbf75f5eccc66492900a816c911 *R/copypaste.R
+b3fb9dc0d4ee4077d959550ad10b04fa *DESCRIPTION
+3b83f661c2372a687efd2b8f55b55e77 *NAMESPACE
+4af0257fb19769f9a7f4923d1a6c4a2a *R/clear.code.R
+ad164dae8c217d9ec394ff768289c273 *R/copypaste.R
 60c1a0bb91294e0fde6f74c1530fe32c *R/libraries.R
-93427406ecc85e56f012d846c3663cd3 *R/r.args.R
+a00b3e20021078a91bbb49ccdf70696f *R/r.args.R
+329c1a4e0a457fb2a00715f7337875ad *R/read.all.R
 925c14caf8db7955b5884960038555a3 *README.md
-6d489b3791464fff1d74b21461a6da09 *inst/rstudio/addins.dcf
+28b03dbc3a9cf8b9838ea67428d0d86f *inst/rstudio/addins.dcf
 3634133177273b205303096eabd40ba8 *man/clear.code.Rd
 4feecdccdb23cd456eea5a842c329ee6 *man/copypaste.Rd
 502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
@@ -13,3 +14,4 @@ fc868acd320d835f297a801e4c5cd9ef *man/figures/copypste.png
 f3341445df8426fe8708419980c689a3 *man/figures/short.png
 08cbcd1fd10d017b2d6bc14e0f89fb7b *man/libraries.Rd
 ff345a8873b129530c821d3301a87f23 *man/r.args.Rd
+c4e4527bcbd81be32d2f9b5257d04c78 *man/read.all.Rd
